@@ -47,4 +47,4 @@ Error: Failure while executing; `/usr/local/bin/brew tap homebrew/core` exited w
 
 I looked at https://stackoverflow.com/questions/24952683/git-push-error-rpc-failed-result-56-http-code-200-fatal-the-remote-end-hun/36843260#36843260
 
-It seems to have to have the solution but literally everything I read goes above my head. 
+It seems to have to have the solution but it well and truly goes out of my depth. 
